@@ -37,6 +37,7 @@ export default function Navbar() {
                   height={160}
                 />
             </a>
+            <a href='https://discord.com/invite/hfjSPXad'>
                 <img
                   className='h-6 md:h-9 w-auto  dark:block px-2'
                   src='/images/discord.svg'
@@ -44,8 +45,7 @@ export default function Navbar() {
                   width={540}
                   height={160}
                 />
-                
-              
+                </a>
             
           </div>
         </div>
