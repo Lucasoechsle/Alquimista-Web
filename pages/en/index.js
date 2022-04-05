@@ -16,11 +16,11 @@ export default function Home() {
         <Navbar />
       </header>
      
-      <main className='mx-auto grid h-screen min-h-full  bg-gradient-to-tr from-red-500 to-yellow-500 items-center justify-center'>
+      <main className='Amx-auto grid h-screen min-h-full  bg-gradient-to-tr from-red-500 to-yellow-500 items-center justify-center'>
       
 
         <span className='sr-only'>Dreamurs</span>
-        <img className='w-80 rounded-3xl' src='/images/Logo Dreamurs-03.svg' alt='' />
+        <img className='w-80 rounded-3xl' src='/images/LogoComing  Soon-03.svg' alt='' />
         
       </main>
 

@@ -5,7 +5,7 @@ export default function Navbar() {
           'fixed w-full z-20 border-b-1  backdrop-filter backdrop-blur-lg  sm:block'
         }
       >
-        <div className='max-w-7xl mx-auto px-4'>
+        <div className='max-w-auto mx-auto px-4'>
           <div className='flex justify-center items-center py-3 lg:justify-end lg:space-x-8 px-4'>
             <div className='flex justify-between lg:w-0 lg:flex-1'>
               <a href='/es'>
