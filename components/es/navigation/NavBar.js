@@ -19,6 +19,9 @@ export default function Navbar() {
                 /> */}
                 </a>
             </div>
+
+            
+
             <a href='https://medium.com/@dreamursnft/48c2520f7b82'
             target="_blank">
                 <img
@@ -29,6 +32,19 @@ export default function Navbar() {
                   height={160}
                 />
             </a>
+
+            <a href='https://instagram.com/dreamursnft?utm_medium=copy_link'
+            target="_blank">
+                <img
+                  className='h-6 md:h-8 w-auto  dark:block px-2'
+                  src='/images/instagram.svg'
+                  alt=''
+                  width={540}
+                  height={160}
+                />
+            </a>
+
+            
             <a href='https://twitter.com/dreamursNFT'
             target="_blank">
                 <img
@@ -39,8 +55,7 @@ export default function Navbar() {
                   height={160}
                 />
             </a>
-            <a href='https://discord.gg/mjTZ4wxc4m'
-            target="_blank">
+            <a href='https://discord.gg/w77yQ6QDPp'>
                 <img
                   className='h-6 md:h-9 w-auto  dark:block px-2'
                   src='/images/discord.svg'
