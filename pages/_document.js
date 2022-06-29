@@ -14,13 +14,13 @@ class MyDocument extends Document {
           <Favicons />
           <meta
             name='description'
-            content='A collection of dreaming lemurs coming to the blockchain 🐒😴⚡️'
+            content='Alquimista Gin NFT Drop'
           />
           <meta
             property='og:description'
-            content={`A collection of dreaming lemurs coming to the blockchain 🐒😴⚡️`}
+            content={`Alquimista Gin NFT Drop`}
           />
-          <meta property='og:image' content='/images/Logo-01.jpg' />
+          <meta property='og:image' content='/favicons/favicon196x196.png' />
         </Head>
         <body className='bg-white dark:bg-black'>
           <Main />
