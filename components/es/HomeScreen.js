@@ -27,7 +27,7 @@ export default function Component() {
 
         <div className=' content-center relative px-0 py-1 sm:py-1 text-center place-self-center bg-transparent -mt-10'>
                 
-          <img className='mx-auto max-w-auto sm:flex sm:justify-center sm-w-[75%] md-w-[75%] rounded-full' src='/images/Gif.gif'/>
+          <img className='mx-auto max-w-auto sm:flex sm:justify-center sm-w-[75%] md-w-[75%] rounded-full' src='/images/AlquimistaRender.gif'/>
                           
         </div> 
 
