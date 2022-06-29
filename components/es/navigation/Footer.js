@@ -1,27 +1,27 @@
 export default function Footer() {
-    return (
-      <footer
-        className='bg-gray-50 dark:bg-black border-t-2'
-        aria-labelledby='footerHeading'
-      >
-        <h2 id='footerHeading' className='sr-only'>
-          Footer
-        </h2>
-        <div className='max-w-7xl mx-auto py-2 px-4'>
-          <div className='border-black dark:border-white flex items-center justify-between '>
-            <p className='my-8 text-base text-gray-600 dark:text-white leading-tight'>
-              Dreamurs Collection &copy; 
-              <br />
-              <span className='hidden sm:inline-block'>All Rights Reserved.</span>
-            </p>
-            <a
-              target='_blank'
-              rel='noopener noreferrer'
-            >
-            </a>
-          </div>
+  return (
+    <footer className='border-t-2 bg-black' aria-labelledby='footerHeading'>
+      <h2 id='footerHeading' className='sr-only'>
+        Footer
+      </h2>
+      <div className='mx-auto  py-0 px-6'>
+        <div className='flex items-center justify-between border-black'>
+          <p className='my-8 text-base leading-tight text-white'>
+            Alquimista &copy;
+            <br />
+            <span className=' sm:inline-block'>Powered by bircle®</span>
+            <br />
+            <span className='hidden sm:inline-block'>All Rights Reserved.</span>
+          </p>
+          <a
+            href='https://bircle.io'
+            target='_blank'
+            rel='noopener noreferrer'
+          >
+          <img src='/images/birclee.png' className='my-8 h-12' />
+          </a>
         </div>
-      </footer>
-    );
-  }
-  
+      </div>
+    </footer>
+  );
+}

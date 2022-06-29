@@ -1,5 +1,5 @@
 {
-  "name": "dreamurs-corporate",
+  "name": "AlquimistaGin-corporate",
   "private": true,
   "scripts": {
     "dev": "next dev -p 5757",

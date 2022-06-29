@@ -9,7 +9,7 @@ export default function Navbar() {
           <div className='flex justify-center items-center py-3 lg:justify-end lg:space-x-8 px-4'>
             <div className='flex justify-between lg:w-0 lg:flex-1'>
               <a href='/es'>
-                <span className='sr-only'>Dreamurs</span>
+                <span className='sr-only'>AlquimistaGin</span>
                 {/* <img
                   className='h-14 md:h-16 w-auto hidden dark:block'
                   src='/images/Logo-01.png'
@@ -22,7 +22,7 @@ export default function Navbar() {
 
             
 
-            <a href='https://medium.com/@dreamursnft/48c2520f7b82'
+            {/* <a href='https://medium.com/@AlquimistaGinnft/48c2520f7b82'
             target="_blank">
                 <img
                   className='h-8 md:h-11 w-auto  dark:block px-2'
@@ -31,9 +31,9 @@ export default function Navbar() {
                   width={540}
                   height={160}
                 />
-            </a>
+            </a> */}
 
-            <a href='https://instagram.com/dreamursnft?utm_medium=copy_link'
+            {/* <a href='https://instagram.com/AlquimistaGinnft?utm_medium=copy_link'
             target="_blank">
                 <img
                   className='h-6 md:h-8 w-auto  dark:block px-2'
@@ -42,10 +42,10 @@ export default function Navbar() {
                   width={540}
                   height={160}
                 />
-            </a>
+            </a> */}
 
             
-            <a href='https://twitter.com/dreamursNFT'
+            <a href='https://twitter.com/AlquimistaGinNFT'
             target="_blank">
                 <img
                   className='h-6 md:h-8 w-auto  dark:block px-2'
