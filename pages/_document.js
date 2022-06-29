@@ -20,7 +20,7 @@ class MyDocument extends Document {
             property='og:description'
             content={`Alquimista Gin NFT Drop`}
           />
-          <meta property='og:image' content='/favicons/favicon196x196.png' />
+          <meta property='og:image' content='/favicons/favicon-196x196.png' />
         </Head>
         <body className='bg-white dark:bg-black'>
           <Main />
