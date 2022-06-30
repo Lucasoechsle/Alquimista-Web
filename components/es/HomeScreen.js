@@ -32,8 +32,8 @@ export default function Component() {
         </div> 
 
 
-        <div className='text-2xl tracking-tight lg:p-0 p-0 lg:text-4xl md:text-4x1 place-self-center p-3 -mt-6 content-center text-center place-self-center mb-4'>
-                  <span className='font-ubuntu text-white lg:leading-tight '>
+        <div className='text-2xl tracking-tight-2 lg:p-0 p-0 lg:text-4xl md:text-4x1 place-self-center p-3 -mt-6 content-center text-center place-self-center mb-4'>
+                  <span className='font-brandon text-white lg:leading-tight '>
                   Join us, turn on notifications and don't miss our first drop...
                   </span>
         </div>
