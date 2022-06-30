@@ -9,22 +9,22 @@ module.exports = {
       },
       {
         source: '/manucoll',
-        destination: '/files/Bircle-Deck-Proto.pdf',
+        destination: '/files/manucoll.pdf',
         permanent: true,
       },
       {
         source: '/alquimistanft',
-        destination: '/files/Bircle-Deck-Proto.pdf',
+        destination: '/files/alquimistanft.pdf',
         permanent: true,
       },
       {
         source: '/alquimista',
-        destination: '/files/Bircle-Deck-Proto.pdf',
+        destination: '/files/alquimista.pdf',
         permanent: true,
       },
       {
         source: '/bircle',
-        destination: '/files/Bircle-Deck-Proto.pdf',
+        destination: '/files/bircle.pdf',
         permanent: true,
       },
     ];
