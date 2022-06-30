@@ -5,6 +5,11 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        'ubuntu': 'Ubuntu',
+        'brandon': 'Brandon-Goretsque',
+
+      },
       colors: {
         blue: {
           50: '#EFF6FF',

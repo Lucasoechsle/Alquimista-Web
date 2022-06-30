@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className='border-t-2 bg-black' aria-labelledby='footerHeading'>
+    <footer className='border-t-2 bg-black px-4' aria-labelledby='footerHeading'>
       <h2 id='footerHeading' className='sr-only'>
         Footer
       </h2>
