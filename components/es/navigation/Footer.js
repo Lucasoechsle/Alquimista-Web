@@ -1,11 +1,11 @@
 export default function Footer() {
   return (
-    <footer className='border-t-2 bg-black px-4' aria-labelledby='footerHeading'>
+    <footer className=' bg-black' aria-labelledby='footerHeading'>
       <h2 id='footerHeading' className='sr-only'>
         Footer
       </h2>
       <div className='mx-auto  py-0 px-6'>
-        <div className='flex items-center justify-between border-black'>
+        <div className='flex items-center justify-between'>
           <p className='my-8 text-base leading-tight text-white'>
             Alquimista &copy;
             <br />

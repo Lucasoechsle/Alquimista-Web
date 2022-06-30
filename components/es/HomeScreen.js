@@ -32,14 +32,14 @@ export default function Component() {
         </div> 
 
 
-        <div className='text-2xl tracking-tight lg:p-0 p-0 lg:text-4xl md:text-4x1 place-self-center p-3 -mt-6 content-center text-center place-self-center'>
+        <div className='text-2xl tracking-tight lg:p-0 p-0 lg:text-4xl md:text-4x1 place-self-center p-3 -mt-6 content-center text-center place-self-center mb-4'>
                   <span className='font-ubuntu text-white lg:leading-tight '>
                   Join us, turn on notifications and don't miss our first drop...
                   </span>
         </div>
 
         
-        <div className='mx-auto mt-10 max-w-7xl text-center sm:flex sm:max-w-none sm:justify-center -mt-6'>
+        <div className='mx-auto mt-10 max-w-7xl text-center sm:flex sm:max-w-none sm:justify-center -mt-8'>
           <div className='grid gap-3 grid-cols-2 sm:gap-5'>
               <a
                 href='https://discord.gg/XcvRNnBzbb'
